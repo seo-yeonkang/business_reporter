@@ -1,0 +1,2 @@
+scope,business_id,business_address,n_sentences,n_reviews,status,output_base
+per-store,D_sIoGDRaLJv0DAIc46MMA,"2700 Metairie Rd, Metairie, LA, 70001",2321,,modeled,outputs\with_topics__perstore__2700-metairie-rd-metairie-la-70001.csv
