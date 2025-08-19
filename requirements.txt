@@ -1,0 +1,21 @@
+# Web Framework
+flask
+
+# Core Topic Modeling & Machine Learning
+bertopic==0.16.0
+pandas
+numpy
+scikit-learn
+
+# Embeddings & Transformers (Hugging Face)
+sentence-transformers
+transformers
+torch
+
+# Clustering & Dimensionality Reduction
+hdbscan
+umap-learn
+
+# Natural Language Preprocessing
+nltk
+spacy==3.7.2
